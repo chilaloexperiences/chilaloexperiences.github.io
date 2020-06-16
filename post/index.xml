@@ -12,6 +12,17 @@
     
     
     <item>
+      <title>What is an Amazilia?</title>
+      <link>https://chilaloexperiences.github.io/post/project-2/</link>
+      <pubDate>Mon, 15 Jun 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://chilaloexperiences.github.io/post/project-2/</guid>
+      <description>It is a fairly common hummingbird in bushy areas, forest edges and gardens in the south western part of Ecuador. It is one of the most distinctive hummingbirds in the parks and gardens of the city of Loja. In the surroundings of the city it is a common species.
+  Description: 9 cm.
+  The existence of Amazilia alticola from the highlands in the Loja region is considered to be a co-species of ventrirrugated Amazilia present in the lowerlands.</description>
+    </item>
+    
+    <item>
       <title>What is a Chilalo?</title>
       <link>https://chilaloexperiences.github.io/post/project-1/</link>
       <pubDate>Sun, 14 Jun 2020 10:58:08 -0400</pubDate>
@@ -20,26 +31,6 @@
       <description>The Pacific Hornero: It is a common and recognizable bird that lives in a variety of habitats, but not within the forest; from open fields to towns and cities in the western lowlands and temperate zones in Loja, but not in the east. It is a fairly common species in the city and its surroundings.
   Description: 19 cm
   Its beak is somewhat long and curved, pale yellow irises, grayish brown or pale pinkish legs.</description>
-    </item>
-    
-    <item>
-      <title>Project 3: Ball Image Classifier</title>
-      <link>https://chilaloexperiences.github.io/post/project-3/</link>
-      <pubDate>Fri, 10 Apr 2020 11:00:59 -0400</pubDate>
-      
-      <guid>https://chilaloexperiences.github.io/post/project-3/</guid>
-      <description>For this example project I built a ball classifier to identify balls from different sports. This could be useful for someone who is new to sports from a certain country. They could take a picture of a ball and an app could serve them some information about the history and rules of the game. This is the underlying model for building something with those capabilities.
-I was able to get the model to predict the sport of the ball with 94% accuracy after minimal tuning.</description>
-    </item>
-    
-    <item>
-      <title>Project 4: Ball Image Classifier</title>
-      <link>https://chilaloexperiences.github.io/post/project-4/</link>
-      <pubDate>Fri, 10 Apr 2020 11:00:59 -0400</pubDate>
-      
-      <guid>https://chilaloexperiences.github.io/post/project-4/</guid>
-      <description>For this example project I built a ball classifier to identify balls from different sports. This could be useful for someone who is new to sports from a certain country. They could take a picture of a ball and an app could serve them some information about the history and rules of the game. This is the underlying model for building something with those capabilities.
-I was able to get the model to predict the sport of the ball with 94% accuracy after minimal tuning.</description>
     </item>
     
   </channel>
